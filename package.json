@@ -1,6 +1,6 @@
 {
   "homepage": "http://CII-LTD.github.io/cii",
-  "name": "cii-website",
+  "name": "cii",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
